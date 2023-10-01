@@ -11,7 +11,7 @@ This project utilizes YOLOv3 (You Only Look Once), a state-of-the-art object det
 * Object Detection in Image
 * Object Detection in Video
 * Configuration
-* * License
+* License
 
 ## Installation
 Clone Darknet Repository: Clone the Darknet repository, which includes the YOLOv3 implementation.
